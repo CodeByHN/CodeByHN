@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Nadeem</h1>
 <h3 align="center">“Full-Stack Developer & Problem Solver”</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codebyhn" alt="codebyhn" /></a> </p>
-
 - 🌱 I’m currently learning **MongoDB, ReactJS**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
@@ -19,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebyhn&show_icons=true&locale=en" alt="codebyhn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyhn&" alt="codebyhn" /></p>
-
